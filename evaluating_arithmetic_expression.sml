@@ -1,3 +1,0 @@
--the type of f is: fn : 'a list -> 'a -> 'a list
--the type of map (f l) is: fn: int list -> int list list
--the evaluation of the expression map (f l) l is: [ [1,1,2,3] , [2,1,2,3] , [3,1,2,3] ] :int list list
